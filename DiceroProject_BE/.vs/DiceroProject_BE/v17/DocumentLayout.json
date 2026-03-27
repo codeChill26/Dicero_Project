@@ -1,0 +1,1037 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|solutionrelative:bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB8323D-929D-4404-84DE-FC991B13361B}|DiceroController\\DiceroWebAPI.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\dicerocontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB8323D-929D-4404-84DE-FC991B13361B}|DiceroController\\DiceroWebAPI.csproj|solutionrelative:dicerocontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8331CF77-4985-4950-AE0A-9EB1F333814B}|DAL\\DAL.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8331CF77-4985-4950-AE0A-9EB1F333814B}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8331CF77-4985-4950-AE0A-9EB1F333814B}|DAL\\DAL.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\dal\\dicerodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8331CF77-4985-4950-AE0A-9EB1F333814B}|DAL\\DAL.csproj|solutionrelative:dal\\dicerodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8331CF77-4985-4950-AE0A-9EB1F333814B}|DAL\\DAL.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\dal\\entities\\boardgames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8331CF77-4985-4950-AE0A-9EB1F333814B}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\boardgames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\bll\\dto\\boardgames\\boardgamecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\boardgames\\boardgamecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB8323D-929D-4404-84DE-FC991B13361B}|DiceroController\\DiceroWebAPI.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\dicerocontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EB8323D-929D-4404-84DE-FC991B13361B}|DiceroController\\DiceroWebAPI.csproj|solutionrelative:dicerocontroller\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB8323D-929D-4404-84DE-FC991B13361B}|DiceroController\\DiceroWebAPI.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\dicerocontroller\\dicerowebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1EB8323D-929D-4404-84DE-FC991B13361B}|DiceroController\\DiceroWebAPI.csproj|solutionrelative:dicerocontroller\\dicerowebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB8323D-929D-4404-84DE-FC991B13361B}|DiceroController\\DiceroWebAPI.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\dicerocontroller\\controllers\\boardgamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB8323D-929D-4404-84DE-FC991B13361B}|DiceroController\\DiceroWebAPI.csproj|solutionrelative:dicerocontroller\\controllers\\boardgamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\bll\\services\\boardgameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|solutionrelative:bll\\services\\boardgameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\bll\\dto\\boardgames\\boardgameupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\boardgames\\boardgameupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\bll\\interfaceservice\\iboardgameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|solutionrelative:bll\\interfaceservice\\iboardgameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\bll\\dto\\boardgames\\boardgameresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\boardgames\\boardgameresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\bll\\interfaceservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|solutionrelative:bll\\interfaceservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\bll\\interfaceservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|solutionrelative:bll\\interfaceservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB8323D-929D-4404-84DE-FC991B13361B}|DiceroController\\DiceroWebAPI.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\dicerocontroller\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB8323D-929D-4404-84DE-FC991B13361B}|DiceroController\\DiceroWebAPI.csproj|solutionrelative:dicerocontroller\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB8323D-929D-4404-84DE-FC991B13361B}|DiceroController\\DiceroWebAPI.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\dicerocontroller\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB8323D-929D-4404-84DE-FC991B13361B}|DiceroController\\DiceroWebAPI.csproj|solutionrelative:dicerocontroller\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\bll\\mapping\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|solutionrelative:bll\\mapping\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A28AAD-A07D-4AE7-A508-0199F09C22D9}|Ultils\\Ultils.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\ultils\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A28AAD-A07D-4AE7-A508-0199F09C22D9}|Ultils\\Ultils.csproj|solutionrelative:ultils\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\bll\\mapping\\boardgameprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|solutionrelative:bll\\mapping\\boardgameprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\bll\\dto\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\bll\\dto\\users\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\users\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\bll\\dto\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8331CF77-4985-4950-AE0A-9EB1F333814B}|DAL\\DAL.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\dal\\interfacerepo\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8331CF77-4985-4950-AE0A-9EB1F333814B}|DAL\\DAL.csproj|solutionrelative:dal\\interfacerepo\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8331CF77-4985-4950-AE0A-9EB1F333814B}|DAL\\DAL.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8331CF77-4985-4950-AE0A-9EB1F333814B}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\bll\\dto\\users\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\users\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A28AAD-A07D-4AE7-A508-0199F09C22D9}|Ultils\\Ultils.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\ultils\\ultils.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{24A28AAD-A07D-4AE7-A508-0199F09C22D9}|Ultils\\Ultils.csproj|solutionrelative:ultils\\ultils.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8331CF77-4985-4950-AE0A-9EB1F333814B}|DAL\\DAL.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\dal\\entities\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8331CF77-4985-4950-AE0A-9EB1F333814B}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8331CF77-4985-4950-AE0A-9EB1F333814B}|DAL\\DAL.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\dal\\interfacerepo\\iboardgamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8331CF77-4985-4950-AE0A-9EB1F333814B}|DAL\\DAL.csproj|solutionrelative:dal\\interfacerepo\\iboardgamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8331CF77-4985-4950-AE0A-9EB1F333814B}|DAL\\DAL.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\dal\\repositories\\boardgamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8331CF77-4985-4950-AE0A-9EB1F333814B}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\boardgamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A28AAD-A07D-4AE7-A508-0199F09C22D9}|Ultils\\Ultils.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\ultils\\gameplayenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A28AAD-A07D-4AE7-A508-0199F09C22D9}|Ultils\\Ultils.csproj|solutionrelative:ultils\\gameplayenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E27CD96-62D6-45C0-89B3-A70AE0478937}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8331CF77-4985-4950-AE0A-9EB1F333814B}|DAL\\DAL.csproj|d:\\fpt materials\\myown\\bg-project\\diceroproject_be\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8331CF77-4985-4950-AE0A-9EB1F333814B}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 92,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1377497384:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1928210406:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:350743133:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:33:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:38:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:40:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:41:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:42:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:43:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:44:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BoardgameCreateDTO.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\DTO\\Boardgames\\BoardgameCreateDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\Boardgames\\BoardgameCreateDTO.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\DTO\\Boardgames\\BoardgameCreateDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\Boardgames\\BoardgameCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:28:55.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DiceroController\\appsettings.json",
+              "RelativeDocumentMoniker": "DiceroController\\appsettings.json",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DiceroController\\appsettings.json",
+              "RelativeToolTip": "DiceroController\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-25T15:00:11.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T14:54:44.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiceroDBContext.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DAL\\DiceroDBContext.cs",
+              "RelativeDocumentMoniker": "DAL\\DiceroDBContext.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DAL\\DiceroDBContext.cs",
+              "RelativeToolTip": "DAL\\DiceroDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T14:50:28.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DiceroWebAPI.csproj",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DiceroController\\DiceroWebAPI.csproj",
+              "RelativeDocumentMoniker": "DiceroController\\DiceroWebAPI.csproj",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DiceroController\\DiceroWebAPI.csproj",
+              "RelativeToolTip": "DiceroController\\DiceroWebAPI.csproj",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwAoAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T14:59:17.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\AuthService.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\Services\\AuthService.cs",
+              "RelativeToolTip": "BLL\\Services\\AuthService.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAkwGUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:33:35.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DiceroController\\Program.cs",
+              "RelativeDocumentMoniker": "DiceroController\\Program.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DiceroController\\Program.cs",
+              "RelativeToolTip": "DiceroController\\Program.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAQwGgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:00:48.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Boardgames.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DAL\\Entities\\Boardgames.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Boardgames.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DAL\\Entities\\Boardgames.cs",
+              "RelativeToolTip": "DAL\\Entities\\Boardgames.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:39:51.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BLL.csproj",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\BLL.csproj",
+              "RelativeToolTip": "BLL\\BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-26T08:16:21.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BoardgameController.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DiceroController\\Controllers\\BoardgameController.cs",
+              "RelativeDocumentMoniker": "DiceroController\\Controllers\\BoardgameController.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DiceroController\\Controllers\\BoardgameController.cs",
+              "RelativeToolTip": "DiceroController\\Controllers\\BoardgameController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowE8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:14:51.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BoardgameService.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\Services\\BoardgameService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\BoardgameService.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\Services\\BoardgameService.cs",
+              "RelativeToolTip": "BLL\\Services\\BoardgameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:58:03.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BoardgameUpdateDTO.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\DTO\\Boardgames\\BoardgameUpdateDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\Boardgames\\BoardgameUpdateDTO.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\DTO\\Boardgames\\BoardgameUpdateDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\Boardgames\\BoardgameUpdateDTO.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T17:01:35.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBoardgameService.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\InterfaceService\\IBoardgameService.cs",
+              "RelativeDocumentMoniker": "BLL\\InterfaceService\\IBoardgameService.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\InterfaceService\\IBoardgameService.cs",
+              "RelativeToolTip": "BLL\\InterfaceService\\IBoardgameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:54:44.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BoardGameResponseDTO.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\DTO\\Boardgames\\BoardGameResponseDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\Boardgames\\BoardGameResponseDTO.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\DTO\\Boardgames\\BoardGameResponseDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\Boardgames\\BoardGameResponseDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:23:43.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\InterfaceService\\IAuthService.cs",
+              "RelativeDocumentMoniker": "BLL\\InterfaceService\\IAuthService.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\InterfaceService\\IAuthService.cs",
+              "RelativeToolTip": "BLL\\InterfaceService\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:33:07.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\InterfaceService\\IUserService.cs",
+              "RelativeDocumentMoniker": "BLL\\InterfaceService\\IUserService.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\InterfaceService\\IUserService.cs",
+              "RelativeToolTip": "BLL\\InterfaceService\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:54:26.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DiceroController\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "DiceroController\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DiceroController\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "DiceroController\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwC8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:22:03.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DiceroController\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "DiceroController\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DiceroController\\Controllers\\UserController.cs",
+              "RelativeToolTip": "DiceroController\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwBwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:15:36.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\Mapping\\UserProfile.cs",
+              "RelativeDocumentMoniker": "BLL\\Mapping\\UserProfile.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\Mapping\\UserProfile.cs",
+              "RelativeToolTip": "BLL\\Mapping\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:30:58.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\Ultils\\Auth.cs",
+              "RelativeDocumentMoniker": "Ultils\\Auth.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\Ultils\\Auth.cs",
+              "RelativeToolTip": "Ultils\\Auth.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:15:46.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BoardgameProfile.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\Mapping\\BoardgameProfile.cs",
+              "RelativeDocumentMoniker": "BLL\\Mapping\\BoardgameProfile.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\Mapping\\BoardgameProfile.cs",
+              "RelativeToolTip": "BLL\\Mapping\\BoardgameProfile.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:30:25.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\DTO\\Auth\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\Auth\\LoginRequestDTO.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\DTO\\Auth\\LoginRequestDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\Auth\\LoginRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:26:35.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserCreateDTO.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\DTO\\Users\\UserCreateDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\Users\\UserCreateDTO.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\DTO\\Users\\UserCreateDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\Users\\UserCreateDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:23:31.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "BLL\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:58:18.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthResponseDTO.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\DTO\\Auth\\AuthResponseDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\Auth\\AuthResponseDTO.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\DTO\\Auth\\AuthResponseDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\Auth\\AuthResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:27:33.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DAL\\InterfaceRepo\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\InterfaceRepo\\IUserRepository.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DAL\\InterfaceRepo\\IUserRepository.cs",
+              "RelativeToolTip": "DAL\\InterfaceRepo\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:50:01.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DAL\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DAL\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:44:48.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserResponseDTO.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\DTO\\Users\\UserResponseDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\Users\\UserResponseDTO.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\DTO\\Users\\UserResponseDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\Users\\UserResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:07:05.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Ultils.csproj",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\Ultils\\Ultils.csproj",
+              "RelativeDocumentMoniker": "Ultils\\Ultils.csproj",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\Ultils\\Ultils.csproj",
+              "RelativeToolTip": "Ultils\\Ultils.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-26T08:16:28.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DAL\\Entities\\UserAccount.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\UserAccount.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DAL\\Entities\\UserAccount.cs",
+              "RelativeToolTip": "DAL\\Entities\\UserAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:39:45.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IBoardGameRepository.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DAL\\InterfaceRepo\\IBoardGameRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\InterfaceRepo\\IBoardGameRepository.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DAL\\InterfaceRepo\\IBoardGameRepository.cs",
+              "RelativeToolTip": "DAL\\InterfaceRepo\\IBoardGameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:50:04.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BoardGameRepository.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DAL\\Repositories\\BoardGameRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\BoardGameRepository.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DAL\\Repositories\\BoardGameRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\BoardGameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABRwAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:44:57.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GamePlayEnum.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\Ultils\\GamePlayEnum.cs",
+              "RelativeDocumentMoniker": "Ultils\\GamePlayEnum.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\Ultils\\GamePlayEnum.cs",
+              "RelativeToolTip": "Ultils\\GamePlayEnum.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T14:48:13.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T17:05:10.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "D:\\FPT MATERIALS\\MyOwn\\BG-Project\\DiceroProject_BE\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T17:04:35.032Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 305,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:31:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:32:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:35:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:36:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:39:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 548,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 131,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
