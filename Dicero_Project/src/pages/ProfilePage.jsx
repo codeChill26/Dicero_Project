@@ -1,39 +1,11 @@
 import React, { useState } from 'react';
 import { PinIcon, StarIcon, UserIcon } from '../components/common/Icons';
-
-// Mock Data cho danh sách Listings
-const mockListings = [
-  {
-    id: 1,
-    title: 'Catan',
-    buyPrice: '750.000đ',
-    rentPrice: '70.000đ/day',
-    condition: 'Like New',
-    status: 'Available',
-    image: 'https://placehold.co/80x80/e2e8f0/666?text=Catan' // Placeholder tạm
-  },
-  {
-    id: 2,
-    title: 'Azul',
-    buyPrice: '600.000đ',
-    rentPrice: '55.000đ/day',
-    condition: 'Like New',
-    status: 'Available',
-    image: 'https://placehold.co/80x80/e2e8f0/666?text=Azul'
-  },
-  {
-    id: 3,
-    title: 'Splendor',
-    buyPrice: '500.000đ',
-    rentPrice: '50.000đ/day',
-    condition: 'Like New',
-    status: 'Available',
-    image: 'https://placehold.co/80x80/e2e8f0/666?text=Splendor'
-  }
-];
+import AddBoardgameModal from '../components/marketplace/AddBoardgameModal';
 
 function ProfilePage({ user }) {
   const [activeTab, setActiveTab] = useState('listings');
+  const [isModalOpen, setIsModalOpen] = useState(false);
+  const [myListings, setMyListings] = useState([]); // Array that will be populated from API later
   
   // Tên hiển thị (lấy từ email nếu không có name)
   const displayName = user?.fullName || (user?.email ? user.email.split('@')[0] : 'User Name');
@@ -154,14 +126,19 @@ function ProfilePage({ user }) {
         {/* NỘI DUNG LISTINGS */}
         <div style={{ marginTop: '24px' }}>
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '16px' }}>
-            <h2 style={{ fontSize: '18px', color: '#1e293b', margin: 0 }}>My Listings (3)</h2>
-            <button style={{ backgroundColor: '#f59e0b', color: '#fff', border: 'none', padding: '8px 16px', borderRadius: '8px', fontWeight: '500', cursor: 'pointer' }}>
+            <h2 style={{ fontSize: '18px', color: '#1e293b', margin: 0 }}>My Listings ({myListings.length})</h2>
+            <button onClick={() => setIsModalOpen(true)} style={{ backgroundColor: '#f59e0b', color: '#fff', border: 'none', padding: '8px 16px', borderRadius: '8px', fontWeight: '500', cursor: 'pointer' }}>
               + Add New
             </button>
           </div>
 
           <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
-            {mockListings.map(item => (
+            {myListings.length === 0 ? (
+              <div style={{ padding: '24px', textAlign: 'center', color: '#64748b', fontSize: '15px', backgroundColor: '#fff', borderRadius: '12px', border: '1px solid #e2e8f0' }}>
+                You haven't listed any board games yet.
+              </div>
+            ) : (
+            myListings.map(item => (
               <div key={item.id} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', backgroundColor: '#fff', padding: '16px', borderRadius: '12px', border: '1px solid #e2e8f0', boxShadow: '0 2px 4px rgba(0,0,0,0.02)' }}>
                 <div style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
                   {/* Ảnh sản phẩm */}
@@ -185,19 +162,30 @@ function ProfilePage({ user }) {
                   </div>
                 </div>
 
-                {/* Status Badge */}
-                <div style={{ height: '100%', display: 'flex', alignItems: 'flex-start', alignSelf: 'flex-start' }}>
-                  <span style={{ backgroundColor: '#dcfce7', color: '#16a34a', padding: '4px 12px', borderRadius: '16px', fontSize: '12px', fontWeight: '500', display: 'flex', alignItems: 'center', gap: '4px' }}>
-                    <span style={{ width: '6px', height: '6px', backgroundColor: '#16a34a', borderRadius: '50%', display: 'inline-block' }}></span>
-                    {item.status}
-                  </span>
+                  {/* Status Badge */}
+                  <div style={{ height: '100%', display: 'flex', alignItems: 'flex-start', alignSelf: 'flex-start' }}>
+                    <span style={{ backgroundColor: '#dcfce7', color: '#16a34a', padding: '4px 12px', borderRadius: '16px', fontSize: '12px', fontWeight: '500', display: 'flex', alignItems: 'center', gap: '4px' }}>
+                      <span style={{ width: '6px', height: '6px', backgroundColor: '#16a34a', borderRadius: '50%', display: 'inline-block' }}></span>
+                      {item.status}
+                    </span>
+                  </div>
                 </div>
-              </div>
-            ))}
+              ))
+            )}
           </div>
         </div>
 
       </div>
+
+      <AddBoardgameModal 
+        isOpen={isModalOpen} 
+        onClose={() => setIsModalOpen(false)} 
+        user={user} 
+        onAdded={() => {
+          alert('Boardgame added successfully!');
+          // Có thể fetch lại danh sách boardgame ở đây
+        }} 
+      />
     </div>
   );
 }

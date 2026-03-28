@@ -22,7 +22,7 @@ function App() {
   const renderPage = () => {
     switch (activePage) {
       case 'marketplace':
-        return <MarketplacePage />
+        return <MarketplacePage user={user} />
       case 'login':
         return <LoginPage onNavigate={setActivePage} onLogin={setUser} />
       case 'register':

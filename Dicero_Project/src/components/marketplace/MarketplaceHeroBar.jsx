@@ -1,16 +1,29 @@
 import { SearchIcon } from '../common/Icons'
 
-function MarketplaceHeroBar({ chips }) {
+function MarketplaceHeroBar({ chips, onPostClick }) {
   return (
     <section className="market-hero">
       <div className="shell market-hero-inner">
-        <div>
-          <p className="market-kicker">Marketplace</p>
-          <h1>Discover Great Deals from the Community</h1>
-          <p>
-            Browse listings, compare prices, and connect with trusted board game
-            sellers across Vietnam.
-          </p>
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
+          <div>
+            <p className="market-kicker">Marketplace</p>
+            <h1>Discover Great Deals from the Community</h1>
+            <p>
+              Browse listings, compare prices, and connect with trusted board game
+              sellers across Vietnam.
+            </p>
+          </div>
+          <button 
+            type="button" 
+            onClick={onPostClick}
+            style={{
+              padding: '10px 20px', backgroundColor: '#ef6b2f', color: '#fff', 
+              border: 'none', borderRadius: '8px', fontWeight: 'bold', cursor: 'pointer',
+              whiteSpace: 'nowrap'
+            }}
+          >
+            Post your Boardgame
+          </button>
         </div>
 
         <form className="market-search" onSubmit={(event) => event.preventDefault()}>
